@@ -2,10 +2,6 @@
 
 # Hi
 
-# confl 1
+# russian laugh(1)
 
-# confl 2
-
-# Goodbye
-
-# shit man
+# english laugh(2)
