@@ -1,3 +1,0 @@
-# Hello
-# Pulling
-# hi
