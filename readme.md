@@ -2,10 +2,6 @@
 
 # Hi
 
-# confl 1
+# hehehehe(1)
 
-# confl 2
-
-# Goodbye
-
-# shit man
+# xaxaxaxa(2)
